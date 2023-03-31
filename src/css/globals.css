@@ -1,9 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Outfit:300,700");
-/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/642271abcdacff51e092cf62.642271ac874359aba1424346.D7FHXOD.hcp.png");
-
-
 
 .screen a {
   display: contents;

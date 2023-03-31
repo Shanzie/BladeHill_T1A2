@@ -1,4 +1,3 @@
-/* screen - index */
 
 .index {
   align-items: flex-start;
@@ -104,12 +103,26 @@
   width: 502px;
 }
 
-.index .flex-row-1 {
+.index .navbar {
   align-items: flex-start;
   align-self: flex-end;
   display: flex;
   height: 16px;
   min-width: 444px;
+}
+
+.index .home{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  width: 149px;
+}
+
+.index .about-me{
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  width: 149px;
 }
 
 .index .skills {
