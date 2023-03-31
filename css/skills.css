@@ -1,0 +1,97 @@
+/* screen - skills */
+
+.skills {
+  align-items: flex-start;
+  background-color: var(--black-rock);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.skills .overlap-group {
+  align-items: center;
+  background-image: url(../img/vector-4.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 155px;
+  min-width: 1440px;
+  padding: 9px 39px;
+}
+
+.skills .place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 176px;
+  min-height: 16px;
+  width: 90px;
+}
+
+.skills .about-me {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 149px;
+}
+
+.skills .overlap-group1 {
+  height: 16px;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  position: relative;
+  width: 260px;
+}
+
+.skills .bloglist {
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.skills .skills-1 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.skills .socials {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 111px;
+}
+
+.skills .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 82px;
+  margin-top: 62px;
+  min-height: 81px;
+}
+
+.skills .skills-item {
+  margin-left: 82px;
+  margin-top: 15px;
+  min-height: 160px;
+}
+
+.skills .skills-2 {
+  margin-left: 82px;
+  margin-top: 87px;
+  min-height: 81px;
+}
+
+.skills .skills-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}

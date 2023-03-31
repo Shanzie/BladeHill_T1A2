@@ -1,0 +1,138 @@
+/* screen - bloglist */
+
+.bloglist {
+  align-items: flex-start;
+  background-color: var(--black-rock);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.bloglist .overlap-group {
+  align-items: center;
+  background-image: url(../img/vector-3.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 155px;
+  min-width: 1440px;
+  padding: 9px 39px;
+}
+
+.bloglist .shanzielogo-removebg-preview-1-3 {
+  align-self: flex-start;
+  height: 123px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.bloglist .place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 176px;
+  min-height: 16px;
+  width: 90px;
+}
+
+.bloglist .about-me {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 149px;
+}
+
+.bloglist .overlap-group2 {
+  height: 16px;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  position: relative;
+  width: 260px;
+}
+
+.bloglist .bloglist-1 {
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.bloglist .skills {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.bloglist .socials {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 33.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 111px;
+}
+
+.bloglist .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 34px;
+  min-height: 81px;
+}
+
+.bloglist .date {
+  margin-left: 80px;
+  min-height: 40px;
+}
+
+.bloglist .bloglist-item {
+  margin-left: 80px;
+  margin-top: 40px;
+  min-height: 81px;
+}
+
+.bloglist .hitchhiking-through-pakistan {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 45px;
+  min-height: 81px;
+}
+
+.bloglist .overlap-group1 {
+  height: 104px;
+  margin-left: 80px;
+  margin-top: 48px;
+  position: relative;
+  width: 580px;
+}
+
+.bloglist .on-the-road-of-life {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.bloglist .date-1 {
+  left: 0;
+  position: absolute;
+  top: 64px;
+}
+
+.bloglist .bloglist-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.bloglist .date-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}

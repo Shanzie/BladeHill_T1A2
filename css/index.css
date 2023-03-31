@@ -1,0 +1,170 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--black-rock);
+  border: 1px none;
+  display: flex;
+  gap: 2px;
+  height: 1024px;
+  width: 1440px;
+}
+
+.index .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 125px;
+  min-height: 996px;
+  width: 918px;
+}
+
+.index .overlap-group2 {
+  height: 788px;
+  position: relative;
+  width: 918px;
+}
+
+.index .overlap-group {
+  height: 788px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 820px;
+}
+
+.index .vector-1 {
+  height: 788px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 619px;
+}
+
+.index .place {
+  left: 619px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 90px;
+}
+
+.index .title {
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 314px;
+}
+
+.index .i-am-currently-a-stu {
+  left: 99px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 442px;
+}
+
+.index .about-me {
+  left: 769px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 149px;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 133px;
+  margin-right: 152.0px;
+  min-width: 316px;
+}
+
+.index .github-mark-white-1 {
+  height: 83px;
+  object-fit: cover;
+  width: 85px;
+}
+
+.index .li-in-bug-1 {
+  height: 83px;
+  object-fit: cover;
+  width: 98px;
+}
+
+.index .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 47px;
+  min-height: 969px;
+  width: 502px;
+}
+
+.index .flex-row-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 16px;
+  min-width: 444px;
+}
+
+.index .skills {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  width: 149px;
+}
+
+.index .bloglist {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  width: 115px;
+}
+
+.index .socials {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 69px;
+  min-height: 16px;
+  width: 111px;
+}
+
+.index .overlap-group1 {
+  height: 649px;
+  margin-top: 102px;
+  position: relative;
+  width: 433px;
+}
+
+.index .x00088-499016775-1 {
+  height: 640px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 423px;
+}
+
+.index .rectangle-2 {
+  border: 20px solid;
+  border-color: var(--black-rock);
+  filter: blur(5px);;
+  height: 649px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 433px;
+}
+
+.index .shanzielogo-removebg-preview-1-1 {
+  height: 123px;
+  margin-left: 20px;
+  margin-top: 79px;
+  object-fit: cover;
+  width: 388px;
+}

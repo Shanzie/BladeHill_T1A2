@@ -1,0 +1,42 @@
+:root { 
+  --black: #000000;
+  --black-rock: #000235;
+  --blue: #2300ff;
+  --white: #ffffff;
+ 
+  --font-size-l: 64px;
+  --font-size-m: 32px;
+ 
+  --font-family-outfit: "Outfit", Helvetica;
+}
+.outfit-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.outfit-light-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.outfit-bold-white-64px {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.outfit-bold-blue-32px {
+  color: var(--blue);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

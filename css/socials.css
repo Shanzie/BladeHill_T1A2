@@ -1,0 +1,174 @@
+/* screen - socials */
+
+.socials {
+  align-items: flex-start;
+  background-color: var(--black-rock);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 62px;
+  height: 1024px;
+  width: 1440px;
+}
+
+.socials .overlap-group {
+  align-items: center;
+  background-image: url(../img/vector-4-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 154px;
+  min-width: 1440px;
+  padding: 8px 39px;
+}
+
+.socials .place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 34.0px;
+  margin-left: 176px;
+  min-height: 16px;
+  width: 90px;
+}
+
+.socials .about-me {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 34.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 149px;
+}
+
+.socials .overlap-group1 {
+  height: 16px;
+  margin-bottom: 34.0px;
+  margin-left: 60px;
+  position: relative;
+  width: 260px;
+}
+
+.socials .bloglist {
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.socials .skills {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.socials .socials-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 34.0px;
+  margin-left: 60px;
+  min-height: 16px;
+  width: 111px;
+}
+
+.socials .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  height: 744px;
+  margin-left: 120px;
+  min-width: 942px;
+}
+
+.socials .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 743px;
+  width: 105px;
+}
+
+.socials .github-mark-white-4 {
+  height: 83px;
+  margin-right: 6.0px;
+  object-fit: cover;
+  width: 85px;
+}
+
+.socials .li-in-bug-4 {
+  height: 83px;
+  margin-left: 7.0px;
+  margin-top: 74px;
+  object-fit: cover;
+  width: 98px;
+}
+
+.socials .icon-youtube {
+  height: 100px;
+  margin-right: 5.0px;
+  margin-top: 75px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.socials .discord-logo-png-7616-1 {
+  height: 103px;
+  margin-right: 1.0px;
+  margin-top: 74px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.socials .gmail-logo-design-on {
+  height: 76px;
+  margin-right: 5.0px;
+  margin-top: 75px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.socials .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 744px;
+  width: 793px;
+}
+
+.socials .title {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 81px;
+}
+
+.socials .linkedincominbahill1997 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 77px;
+  min-height: 81px;
+}
+
+.socials .youtubecomshanzie {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 75px;
+  min-height: 81px;
+}
+
+.socials .shanzie0001 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 104px;
+  min-height: 81px;
+}
+
+.socials .bladeshillgmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 83px;
+  min-height: 81px;
+}
