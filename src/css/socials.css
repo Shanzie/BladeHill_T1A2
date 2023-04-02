@@ -171,3 +171,34 @@
   margin-top: 83px;
   min-height: 81px;
 }
+
+
+/* Style for the navigation bar */
+.navbar {
+  position: absolute;
+  top: 25px;
+  right: 0;
+  font-size: 18px;
+  padding: 10px;
+}
+
+/* Style for the navigation links */
+.navbar1 {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Style for the active link */
+.active {
+  background-color: #4CAF50;
+}
+
+/* Style for the hover effect on links */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}

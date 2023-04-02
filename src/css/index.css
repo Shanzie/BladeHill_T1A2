@@ -1,12 +1,27 @@
-
 .index {
   align-items: flex-start;
   background-color: var(--black-rock);
   border: 1px none;
   display: flex;
   gap: 2px;
-  height: 1024px;
-  width: 1440px;
+}
+
+.desktop {
+  display: block;
+}
+
+.mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+
+  .mobile {
+    display: block;
+  }
 }
 
 .index .flex-col {
@@ -32,12 +47,16 @@
   width: 820px;
 }
 
-.index .vector-1 {
-  height: 788px;
-  left: 0;
+.topleftcontainer {
+  position: relative;
+  width: 788px;
+  height: 619px;
+}
+
+.index .vector1 {
   position: absolute;
+  left: 0;
   top: 0;
-  width: 619px;
 }
 
 .index .place {
@@ -57,7 +76,7 @@
   top: 314px;
 }
 
-.index .i-am-currently-a-stu {
+.index .textbox {
   left: 99px;
   letter-spacing: 0;
   line-height: normal;
@@ -103,50 +122,6 @@
   width: 502px;
 }
 
-.index .navbar {
-  align-items: flex-start;
-  align-self: flex-end;
-  display: flex;
-  height: 16px;
-  min-width: 444px;
-}
-
-.index .home{
-  letter-spacing: 0;
-  line-height: normal;
-  min-height: 16px;
-  width: 149px;
-}
-
-.index .about-me{
-  letter-spacing: 0;
-  line-height: normal;
-  min-height: 16px;
-  width: 149px;
-}
-
-.index .skills {
-  letter-spacing: 0;
-  line-height: normal;
-  min-height: 16px;
-  width: 149px;
-}
-
-.index .bloglist {
-  letter-spacing: 0;
-  line-height: normal;
-  min-height: 16px;
-  width: 115px;
-}
-
-.index .socials {
-  letter-spacing: 0;
-  line-height: normal;
-  margin-left: 69px;
-  min-height: 16px;
-  width: 111px;
-}
-
 .index .overlap-group1 {
   height: 649px;
   margin-top: 102px;
@@ -154,7 +129,7 @@
   width: 433px;
 }
 
-.index .x00088-499016775-1 {
+.index .cyberdog {
   height: 640px;
   left: 3px;
   object-fit: cover;
@@ -166,7 +141,8 @@
 .index .rectangle-2 {
   border: 20px solid;
   border-color: var(--black-rock);
-  filter: blur(5px);;
+  filter: blur(5px);
+  ;
   height: 649px;
   left: 0;
   position: absolute;
@@ -174,10 +150,58 @@
   width: 433px;
 }
 
-.index .shanzielogo-removebg-preview-1-1 {
+.index .shanzielogo {
   height: 123px;
   margin-left: 20px;
   margin-top: 79px;
   object-fit: cover;
   width: 388px;
+}
+
+.index .navbar {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 16px;
+  min-width: 444px;
+}
+
+
+/* Style for the navigation bar */
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  font-size: 18px;
+  padding: 10px;
+}
+
+/* Style for the navigation bar */
+.navbar {
+  position: absolute;
+  top: 25px;
+  right: 0;
+  font-size: 18px;
+  padding: 10px;
+}
+
+/* Style for the navigation links */
+.navbar1 {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Style for the active link */
+.active {
+  background-color: #4CAF50;
+}
+
+/* Style for the hover effect on links */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
 }
