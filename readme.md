@@ -41,3 +41,5 @@ The website has a navigation bar and links to multiple other websites.
 The target audience for this website is an employer that is looking to engage a dev or IT professional.
 
 ## Tech stack (e.g. html, css, deployment platform, etc)
+
+HTML and CSS in Visual Studio Code deployed to GitHub and then published using Netlify
