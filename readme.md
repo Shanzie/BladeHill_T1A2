@@ -1,102 +1,41 @@
-A link (URL) to your published portfolio website
-A link to your GitHub repo
-A link to your presentation video
-Description of your portfolio website, including,
-Purpose
-Functionality / features
-Sitemap
-Screenshots
-Target audience
-Tech stack (e.g. html, css, deployment platform, etc)
+## A link (URL) to your published portfolio website
 
+## A link to your GitHub repo
+https://github.com/Shanzie/BladeHill_T1A2
+## A link to your presentation video
 
-# Coder Academy - Portfolio
+## Description of your portfolio website, including,
+## Purpose
 
-## Overview
-This is a portfolio website for displaying the services that coder academy provides. This is in development phase and we will keep on adding those features in this readme that we add on the website.
+This is my own personal portfolio website giving information about me, my skills, history and social links.
 
-## Components
+## Functionality / features
 
-### Header
-Header has logo and name of the company along with the navigation bar. Here is the code for the header we have:
-```html
-<header>
-    <div class="logo-name">
-        <a href="./index.html">
-            <img src="./images/logo.png" alt="Coder Academy Logo">
-        </a>
-        <p class="name">
-            <span class="coder-text">Coder</span>
-            <span class="academy-text">Academy</span>
-        </p>
-    </div>
-    <nav class="nav-items">
-        <a href="./pages/about.html">About</a>
-        <a href="./pages/services.html">Services</a>
-        <a href="./pages/contact.html">Contact</a>
-    </nav>
-</header>
-```
+The website has a navigation bar and links to multiple other websites.
 
-### Footer
-Footer has social media links, contact number and address. Here is the code that we have:
-```html
-<footer>
-    <div class="social-media">
-        <a href="">
-            <i class="fa-brands fa-github"></i>
-        </a>
-        <a href="">
-            <i class="fa-brands fa-linkedin"></i>
-        </a>
-        <a href="">
-            <i class="fa-brands fa-instagram"></i>
-        </a>
-    </div>
-    <div class="info">
-        <p>Contact: 0404040404</p>
-        <p>Address: 1 Street St, Suburb</p>
-    </div>
-</footer>
-```
+## Sitemap
 
-## Pages
+![Sitemap](docs/sitemap.png)
 
-### Home
-Home page, for now, just displays some lorem ipsum text. Here is the code that we have used:
-```html
-<main>
-    <section>
-        <div class="jumbotron">
-            <img src="./images/jumbotron.jpg" />
-        </div>
-        <div class="details">
-            <p>
-                lorem ipsum text
-            </p>
-        </div>
-    </section>
-</main>
-```
+## Screenshots
 
-### Services
-Servies page displays the list of services that we provide.
+# Home
+![Home](docs/index.png)
 
-### Contact
-Contact page can be used to contact the company.
+# About Me
+![About Me](docs/aboutme.png)
 
-### About
-About page is about us.
+# Skills
+![Skills](docs/skills.png)
 
-## Styling
+# Bloglist
+![Bloglist](docs/bloglist.png)
 
-### Components
-This will contain the styling of individual components which are as following at the moment:
-- Header
-- Footer
+# Socials
+![Socials](docs/socials.png)
 
-### Defaults
-This will contain the default variables such as colors, breakpoints, etc.
+## Target audience
 
-### Pages
-This will contain the styling of each individual HTML pages.
+The target audience for this website is an employer that is looking to engage a dev or IT professional.
+
+## Tech stack (e.g. html, css, deployment platform, etc)
