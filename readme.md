@@ -20,19 +20,19 @@ The website has a navigation bar and links to multiple other websites.
 ## Screenshots
 
 # Home
-![Home](docs/index.png)
+![Home](docs/index.PNG)
 
 # About Me
-![About Me](docs/aboutme.png)
+![About Me](docs/aboutme.PNG)
 
 # Skills
-![Skills](docs/skills.png)
+![Skills](docs/skills.PNG)
 
 # Bloglist
-![Bloglist](docs/bloglist.png)
+![Bloglist](docs/bloglist.PNG)
 
 # Socials
-![Socials](docs/socials.png)
+![Socials](docs/socials.PNG)
 
 ## Target audience
 
