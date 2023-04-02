@@ -1,7 +1,9 @@
 ## A link (URL) to your published portfolio website
+https://benevolent-speculoos-8a5d28.netlify.app/
 
 ## A link to your GitHub repo
 https://github.com/Shanzie/BladeHill_T1A2
+
 ## A link to your presentation video
 
 ## Description of your portfolio website, including,
